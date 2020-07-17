@@ -3,7 +3,7 @@
 # Ring Ring!
 
 ## Flag
-Flag: flag{st3g0_i5_r34list1c}
+Flag: flag{we_love_steg}
 
 ## Briefing
 We received a strange call from an ally, and believe they sent over a flag. Take a look at the pcap and see what you can find.
